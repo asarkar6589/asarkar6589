@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asarkar6589.
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning HTML5, CSS, and Javascript.
+- 👋 Hi, I’m Arnab Sarkar.
+- 👀 I’m interested in full stack web development I know HTML, CSS and JavaScript.
+- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
